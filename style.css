@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #01012C;
+}
+
+.headersec {
+    width:  100%;;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #01012C;
+}
+
+.headercenter ul li{
+    display: inline-block;
+color: white;
+margin: 10px;
+}
+
+.headercenter ul li :hover{
+    text-decoration: underline white;
+}
+
+.headersec .hbtn{
+height:40px ;
+width:100px ;
+border-radius: 10px;
+}
+.headersec .hbtn button{
+    height: 37px;
+    width: 67px;
+    border-radius: 22px;
+    }
+    
+
+.hbtn button:hover{
+color: blue;
+}
+
+.backgroundimage img{
+    height: 31rem;
+    width: 49rem;
+    margin-left: 54rem;
+}
+
+
+
+
+ .head1 h1{
+    font-weight: 900;
+    color: white;
+    font-size: 5rem;
+    margin-top: -29rem;
+    margin-left: 414px;
+}
+
+.head1 p{
+    font-weight: 900;
+    color: white;
+    font-size: 23px;
+    margin-left: 426px;
+}
+
+.btnd{
+    width:  100%;;
+    height: 50px;
+    margin-top: 96px;
+    margin-left: 38rem;
+}
+
+.btnd button{
+    width: 300px;
+    height: 50px;
+    border-radius:30px ;
+    background-color: #161CBB;
+    font-size: 20px;
+}
+
+.btnd .btnwhite {
+    background-color: white;
+    margin-left: 1px;
+}
+.ft2 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-top: 20px;
+  }
+  
+  .ft2 .col {
+    margin: 20px;
+  
+  }
+  
+  .ft2 .col .column {
+    list-style: none;
+    margin-top: -14px;
+    padding: 0;
+    margin-left: 151px;
+  }
+  
+  .ft2 .col .column li {
+    margin: -4px -3px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .ft2 .col .column h1 {
+    font-size: 24px;
+    margin-left: 0;
+  }
+  
+  .ft2 .in {
+    width: 19px;
+    margin-right: 13px;
+  }
+  
+  
+  
+  
+  
+  
+  .app img {
+      
+    width: 125px;
+    height: 37px;
+    margin-left: 151px;
+  }
+  
+  
+  .app img:hover {
+    border: 2px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+  }
+  
+  
+  
+  .footer-text { 
+    text-align: start; 
+    font-size: 14px; 
+    color: rgba(255, 255, 255, 0);
+    margin-top: 20px; 
+    margin-left: 122px;
+  
+  }
+  
+  .footer-text li { 
+    text-decoration: none; 
+    list-style: none; 
+  }
+  
